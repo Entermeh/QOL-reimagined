@@ -1,0 +1,31 @@
+SOURCE-AVAILABLE & COMMERCIAL LICENSE (QOL REIMAGINED)
+
+Copyright (c) 2026 QOL Reimagined. All rights reserved.
+
+1. GRANT OF LICENSE (FREE FEATURES)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to view,
+inspect, use, and run the standard (Free) features of the Software for personal
+or educational purposes.
+
+2. PRO / COMMERCIAL FEATURES
+Certain advanced features of the Software ("Pro Features") require a valid,
+authorized license key issued by the copyright holder or an authorized payment
+gateway (e.g. Stripe checkout). 
+
+3. RESTRICTIONS
+You may NOT:
+a) Modify, reverse engineer, tamper with, or circumvent any license validation,
+   activation logic, or authentication checks designed to restrict access to Pro Features.
+b) Sublicense, rent, lease, or resell the Software or any Pro activation keys without
+   explicit written consent from the copyright holder.
+c) Redistribute modified versions of the Software that remove or bypass Pro tier restrictions.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
